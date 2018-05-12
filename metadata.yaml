@@ -1,0 +1,43 @@
+_repo: The-Fourth-Massachusetts-Cavalry-in-the-Closing-Scenes-of-the-War-for-the-Maintenance-of-the-__31977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Arnold, William B.
+    gutenberg_agent_id: '35585'
+    url: http://www.gutenberg.org/2009/agents/35585
+  - agent_name: Pickett, La Salle Corbell
+    aliases:
+    - Pickett, George E. Mrs. General
+    - Pickett, G. E. Mrs. (George E.)
+    - Pickett, LaSalle Corbell
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '6828'
+    url: http://www.gutenberg.org/2009/agents/6828
+  - agent_name: Bouvé, Edward T. (Edward Tracey)
+    aliases:
+    - Bouve, Edward T. (Edward Tracey)
+    - Bouvé, Edward Tracey
+    gutenberg_agent_id: '35586'
+    url: http://www.gutenberg.org/2009/agents/35586
+description: ''
+gutenberg_issued: '2010-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Massachusetts -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'High Bridge, Battle of, 1865'
+- !lcsh 'United States. Army. Massachusetts Cavalry Regiment, 4th (1864-1865)'
+title: The Fourth Massachusetts Cavalry in the Closing Scenes of the War for the Maintenance
+  of the Union, from Richmond to Appomatox
+url: http://www.gutenberg.org/ebooks/31977
