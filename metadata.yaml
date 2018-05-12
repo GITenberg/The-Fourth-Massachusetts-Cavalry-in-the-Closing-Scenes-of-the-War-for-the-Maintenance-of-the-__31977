@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '35586'
     url: http://www.gutenberg.org/2009/agents/35586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31977#The-Fourth-Massachusetts-Cavalry-in-the-Closing-Scenes-of-the-War-for-the-Maintenance-of-the-_
 gutenberg_issued: '2010-04-13'
 gutenberg_type: Text
 identifiers:
